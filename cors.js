@@ -1,0 +1,2 @@
+// what is cors problem occurs?
+// it shows when u are make a request to the server from the different domain and your database is running on the different domain and to solve it we simply install the cors package from the npm command.
